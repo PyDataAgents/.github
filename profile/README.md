@@ -1,2 +1,9 @@
 # PyDataAgents - Organization
-This is us ...
+Our organization is the maintainer of PyDataAgents framework at github.com.
+The aim of our work is to provide the github community with a python based IIoT framework to build script based DataAgents or software robots for production environments.
+<br>
+Applications include:
+- adapters for a variety of datasources and -sinks (OPCUA, ADS, MQTT, TCP/IP, SQL, INFLUXDB, CSV, JSON, XML ...)
+- LLM based Actions for OCR, Code Generation, SQL Queries, ...
+- Filesystem Automation (moving, renaming, observing files with watchdogs)
+- Mail based alert systems for project management or filesystem supervision
