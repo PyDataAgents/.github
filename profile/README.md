@@ -8,4 +8,4 @@ Applications include:
 - Filesystem Automation (moving, renaming, observing files with watchdogs)
 - Mail based alert systems for project management or filesystem supervision
 <br>
-![pydag/_docs/pydataagents_logo.png](https://github.com/PyDataAgents/PyDataAgents/blob/4f76c0d8c7fa0ea9bc54bf7f3758d81b9f5e4f5c/pydag/_docs/pydataagents_logo.png)
+![pydag Logo](https://github.com/PyDataAgents/PyDataAgents/blob/4f76c0d8c7fa0ea9bc54bf7f3758d81b9f5e4f5c/pydag/_docs/pydataagents_logo.png)
